@@ -22,6 +22,7 @@
 
 ## BI-Дашборд
 [ОТКРЫТЬ ДАШБОРД](https://datalens.yandex/pb9ikdumnes08)
+
 ![Dashboard](dashboard_preview.png)
 
 ## Внутри репозитория
